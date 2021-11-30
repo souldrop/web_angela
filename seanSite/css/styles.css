@@ -1,5 +1,41 @@
 body {
-  background-color: turquoise;
+  background-color: #e4f9f5;
   margin: 0;
+  padding: 0;
+}
+
+.top-container {
+  background-color: ;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.middle-container {
+  background-color: ;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.bottom-container {
+  background-color: ;
+  height: 100px;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
   padding: 0;
 }
